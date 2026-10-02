@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Pedro Ortiz de Guinea — Software Engineer, DevOps, trading systems">
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+  <rect width="1200" height="300" rx="16" fill="#FAF8FD"/>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#DDD3EA"/>
+  <g opacity="0.55" stroke="#DDD3EA">
+    <path d="M820 0V300M880 0V300M940 0V300M1000 0V300M1060 0V300M1120 0V300"/>
+    <path d="M760 60H1200M760 120H1200M760 180H1200M760 240H1200"/>
+  </g>
+  <polyline fill="none" stroke="#7A28C9" stroke-width="2.5" stroke-linejoin="round"
+    points="760,210 800,196 830,204 860,170 890,178 920,140 950,152 980,118 1010,126 1040,96 1070,104 1100,72 1130,84 1160,58 1200,50"/>
+  <circle cx="1160" cy="58" r="5" fill="#15803D"/>
+  <text x="64" y="82" class="mono" font-size="16" letter-spacing="3" fill="#5E566B">SOFTWARE ENGINEER · DEVOPS · BUENOS AIRES</text>
+  <text x="64" y="148" class="sans" font-size="54" font-weight="700" letter-spacing="-1" fill="#0B0910">Pedro Ortiz de Guinea</text>
+  <text x="64" y="192" class="sans" font-size="22" fill="#5E566B">Infrastructure &amp; trading systems — front end to FIX session</text>
+  <text x="64" y="248" class="mono" font-size="18" fill="#7A28C9">$ <tspan fill="#0B0910">if you can think it, I can program it</tspan><tspan class="cursor" fill="#7A28C9">_</tspan></text>
+</svg>
